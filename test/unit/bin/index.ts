@@ -1,4 +1,4 @@
-import { Labels } from '../../../dist';
+import { Projects } from '../../../dist';
 import { exec } from 'child_process';
 import { promisify } from 'util';
 
@@ -18,17 +18,17 @@ jest.mock('../../../src/core/infrastructure/KyRequester', () => ({
   }),
 }));
 
-describe('Labels.create', () => {
-  it('should create a valid label on a project', async () => {
+describe('Projects.create', () => {
+  it('should create a valid project', async () => {
     run(
-      `gitlab labels create --gl-host https://test.com --gl-token 123213 --resource-id ${project.id} --labelName Test Label1 --color #FFAABB`,
+      `gitlab projects create --gl-host https://test.com --gl-token 123213 --name "Test CLI Project" `,
     );
 
-    expect(Labels.constructor).toHaveBeenCalledWith({
+    expect(Projects.constructor).toHaveBeenCalledWith({
       host: 'https://test.com',
       token: '123213',
     });
 
-    expect(Labels.create).toHaveBeenCalledWith(project.id, 'Test Label1', '#FFAABB');
+    expect(Projects.create).toHaveBeenCalledWith({ name: "Test CLI Project" });
   });
 });
