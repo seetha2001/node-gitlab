@@ -1,11 +1,315 @@
 [![npm @latest](https://img.shields.io/npm/v/gitlab.svg)](https://www.npmjs.com/package/gitlab)
 [![npm downloads](https://img.shields.io/npm/dt/gitlab.svg)](https://www.npmjs.com/package/gitlab)
+[![depSkip to content
+Search or jump to…
+
+Pull requests
+Issues
+Marketplace
+Explore
+ 
+@seetha2001 
+Learn Git and GitHub without any code!
+Using the Hello World guide, you’ll start a branch, write comments, and open a pull request.
+
+
+475
+10
+384129jdalrymple/node-gitlab
+ Code Issues 16 Pull requests 7 Projects 0 Wiki Security Insights
+You’re editing a file in a project you don’t have write access to. We’ve created a fork of this project for you to commit your proposed changes to. Submitting a change to this file will write it to a new branch in your fork, so you can send a pull request.
+node-gitlab
+/
+README.md
+ 
+
+1
+[![npm @latest](https://img.shields.io/npm/v/gitlab.svg)](https://www.npmjs.com/package/gitlab)
+2
+[![npm downloads](https://img.shields.io/npm/dt/gitlab.svg)](https://www.npmjs.com/package/gitlab)
+3
 [![dependencies Status](https://david-dm.org/jdalrymple/node-gitlab/status.svg)](https://david-dm.org/jdalrymple/node-gitlab)
+4
+[![devDependencies Status](https://david-dm.org/jdalrymple/node-gitlab/dev-status.svg)](https://david-dm.org/jdalrymple/node-gitlab?type=dev)
+5
+[![Greenkeeper badge](https://badges.greenkeeper.io/jdalrymple/node-gitlab.svg)](https://greenkeeper.io/)
+6
+[![Code Climate](https://codeclimate.com/github/jdalrymple/node-gitlab/badges/gpa.svg)](https://codeclimate.com/github/jdalrymple/node-gitlab)
+7
+[![Build Status](https://img.shields.io/travis/jdalrymple/node-gitlab/master.svg)](https://travis-ci.org/jdalrymple/node-gitlab)
+8
+[![Coverage](https://img.shields.ioSkip to content
+9
+Search or jump to…
+10
+​
+11
+Pull requests
+12
+Issues
+13
+Marketplace
+14
+Explore
+15
+ 
+16
+@seetha2001 
+17
+Learn Git and GitHub without any code!
+18
+Using the Hello World guide, you’ll start a branch, write comments, and open a pull request.
+19
+​
+20
+​
+21
+475
+22
+10
+23
+384129jdalrymple/node-gitlab
+24
+ Code Issues 16 Pull requests 7 Projects 0 Wiki Security Insights
+25
+You’re editing a file in a project you don’t have write access to. We’ve created a fork of this project for you to commit your proposed changes to. Submitting a change to this file will write it to a new branch in your fork, so you can send a pull request.
+26
+node-gitlab
+27
+/
+28
+README.md
+29
+ 
+30
+​
+31
+1
+32
+[![npm @latest](https://img.shields.io/npm/v/gitlab.svg)](https://www.npmjs.com/package/gitlab)
+33
+2
+34
+[![npm downloads](https://img.shields.io/npm/dt/gitlab.svg)](https://www.npmjs.com/package/gitlab)
+35
+3
+36
+[![dependencies Status](https://david-dm.org/jdalrymple/node-gitlab/status.svg)](https://david-dm.org/jdalrymple/node-gitlab)
+37
+4
+38
+[![devDependencies Status](https://david-dm.org/jdalrymple/node-gitlab/dev-status.svg)](https://david-dm.org/jdalrymple/node-gitlab?type=dev)
+39
+5
+40
+[![Greenkeeper badge](https://badges.greenkeeper.io/jdalrymple/node-gitlab.svg)](https://greenkeeper.io/)
+41
+6
+42
+[![Code Climate](https://codeclimate.com/github/jdalrymple/node-gitlab/badges/gpa.svg)](https://codeclimate.com/github/jdalrymple/node-gitlab)
+43
+7
+44
+[![Build Status](https://img.shields.io/travis/jdalrymple/node-gitlab/master.svg)](https://travis-ci.org/jdalrymple/node-gitlab)
+45
+8
+46
+[![Coverage](https://img.shields.io/codecov/c/github/jdalrymple/node-gitlab/master.svg)](https://codecov.io/gh/jdalrymple/node-gitlab)
+47
+9
+48
+[![semantic-release](https://img.shields.io/badge/%20%20%F0%9F%93%A6%F0%9F%9A%80-semantic--release-e10079.svg)](https://github.com/semantic-release/semantic-release)
+49
+10
+50
+[![Commitizen friendly](https://img.shields.io/badge/commitizen-friendly-brightgreen.svg)](http://commitizen.github.io/cz-cli/)
+51
+11
+52
+[![Code Style: Prettier](https://img.shields.io/badge/code%20style-prettier-ff69b4.svg)](https://img.shields.io/badge/code%20style-prettier-ff69b4.svg)
+53
+12
+54
+[![Install Size](https://packagephobia.now.sh/badge?p=gitlab)](https://packagephobia.now.sh/result?p=gitlab)
+55
+13
+56
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://github.com/jdalrymple/node-gitlab/blob/master/LICENSE.md)
+57
+14
+58
+•
+59
+15
+@seetha2001
+Propose file change
+Commit summary
+Update README.md
+Optional extended description
+Add an optional extended description…
+ 
+© 2019 GitHub, Inc.
+Terms
+Privacy
+Security
+Status
+Help
+Contact GitHub
+Pricing
+API
+Training
+Blog
+About
+endencies Status](https://david-dm.org/jdalrymple/node-gitlab/status.svg)](https://david-dm.org/jdalrymple/node-gitlab)
 [![devDependencies Status](https://david-dm.org/jdalrymple/node-gitlab/dev-status.svg)](https://david-dm.org/jdalrymple/node-gitlab?type=dev)
 [![Greenkeeper badge](https://badges.greenkeeper.io/jdalrymple/node-gitlab.svg)](https://greenkeeper.io/)
 [![Code Climate](https://codeclimate.com/github/jdalrymple/node-gitlab/badges/gpa.svg)](https://codeclimate.com/github/jdalrymple/node-gitlab)
 [![Build Status](https://img.shields.io/travis/jdalrymple/node-gitlab/master.svg)](https://travis-ci.org/jdalrymple/node-gitlab)
+[![Coverage](https://img.shields.ioSkip to content
+Search or jump to…
+
+Pull requests
+Issues
+Marketplace
+Explore
+ 
+@seetha2001 
+Learn Git and GitHub without any code!
+Using the Hello World guide, you’ll start a branch, write comments, and open a pull request.
+
+
+475
+10
+384129jdalrymple/node-gitlab
+ Code Issues 16 Pull requests 7 Projects 0 Wiki Security Insights
+You’re editing a file in a project you don’t have write access to. We’ve created a fork of this project for you to commit your proposed changes to. Submitting a change to this file will write it to a new branch in your fork, so you can send a pull request.
+node-gitlab
+/
+README.md
+ 
+
+1
+[![npm @latest](https://img.shields.io/npm/v/gitlab.svg)](https://www.npmjs.com/package/gitlab)
+2
+[![npm downloads](https://img.shields.io/npm/dt/gitlab.svg)](https://www.npmjs.com/package/gitlab)
+3
+[![dependencies Status](https://david-dm.org/jdalrymple/node-gitlab/status.svg)](https://david-dm.org/jdalrymple/node-gitlab)
+4
+[![devDependencies Status](https://david-dm.org/jdalrymple/node-gitlab/dev-status.svg)](https://david-dm.org/jdalrymple/node-gitlab?type=dev)
+5
+[![Greenkeeper badge](https://badges.greenkeeper.io/jdalrymple/node-gitlab.svg)](https://greenkeeper.io/)
+6
+[![Code Climate](https://codeclimate.com/github/jdalrymple/node-gitlab/badges/gpa.svg)](https://codeclimate.com/github/jdalrymple/node-gitlab)
+7
+[![Build Status](https://img.shields.io/travis/jdalrymple/node-gitlab/master.svg)](https://travis-ci.org/jdalrymple/node-gitlab)
+8
 [![Coverage](https://img.shields.io/codecov/c/github/jdalrymple/node-gitlab/master.svg)](https://codecov.io/gh/jdalrymple/node-gitlab)
+9
+[![semantic-release](https://img.shields.io/badge/%20%20%F0%9F%93%A6%F0%9F%9A%80-semantic--release-e10079.svg)](https://github.com/semantic-release/semantic-release)
+10
+[![Commitizen friendly](https://img.shields.io/badge/commitizen-friendly-brightgreen.svg)](http://commitizen.github.io/cz-cli/)
+11
+[![Code Style: Prettier](https://img.shields.io/badge/code%20style-prettier-ff69b4.svg)](https://img.shields.io/badge/code%20style-prettier-ff69b4.svg)
+12
+[![Install Size](https://packagephobia.now.sh/badge?p=gitlab)](https://packagephobia.now.sh/result?p=gitlab)
+13
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://github.com/jdalrymple/node-gitlab/blob/master/LICENSE.md)
+14
+​
+15
+# node-gitlab
+16
+​
+17
+🤖 [GitLab](https://github.com/gitlabhq/gitlabhq) API NodeJS library with full support of all the [Gitlab API](https://github.com/gitlabhq/gitlabhq/tree/master/doc/api) services.
+18
+​
+19
+## Table of Contents
+20
+​
+21
+- [Install](#install)
+22
+- [Getting Started](#getting-started)
+23
+  - [CLI Support](#cli-support)
+24
+- [Docs](#docs)
+25
+  - [Supported APIs](#supported-apis)
+26
+  - [Bundle Imports](#bundle-imports)
+27
+  - [Examples](#examples)
+28
+  - [Pagination](#pagination)
+29
+  - [Sudo](#sudo)
+30
+  - [Custom Request Libraries](#custom-request-libraries)
+31
+  - [Misc](#misc)
+32
+- [Development](#development)
+33
+- [Testing](#testing)
+34
+- [Contributors](#contributors)
+35
+- [License](#licence)
+36
+- [Changelog](#changelog)
+37
+​
+38
+## Install
+39
+​
+40
+```bash
+41
+# Install from npm
+42
+npm install gitlab
+43
+```
+44
+​
+45
+## Getting Started
+46
+​
+47
+Instantiate the library using a basic token created in your [Gitlab Profile](https://docs.gitlab.com/ce/user/profile/personal_access_tokens.html)
+48
+​
+49
+```javascript
+50
+// ES6 (>=node 10.16.0 LTS)
+51
+import { Gitlab } from 'gitlab'; // All Resources
+@seetha2001
+Propose file change
+Commit summary
+Update README.md
+Optional extended description
+Add an optional extended description…
+ 
+© 2019 GitHub, Inc.
+Terms
+Privacy
+Security
+Status
+Help
+Contact GitHub
+Pricing
+API
+Training
+Blog
+About
+/codecov/c/github/jdalrymple/node-gitlab/master.svg)](https://codecov.io/gh/jdalrymple/node-gitlab)
 [![semantic-release](https://img.shields.io/badge/%20%20%F0%9F%93%A6%F0%9F%9A%80-semantic--release-e10079.svg)](https://github.com/semantic-release/semantic-release)
 [![Commitizen friendly](https://img.shields.io/badge/commitizen-friendly-brightgreen.svg)](http://commitizen.github.io/cz-cli/)
 [![Code Style: Prettier](https://img.shields.io/badge/code%20style-prettier-ff69b4.svg)](https://img.shields.io/badge/code%20style-prettier-ff69b4.svg)
